@@ -1,0 +1,2 @@
+https://github.com/davefng/datasciencecoursera.git
+https://github.com/davefng/project1.git
